@@ -1,0 +1,5 @@
+|Client N  :1   |STATUS :CONNECTED   |IP_v4  :::ffff:127.0.0.1   |PERMISSION :GUEST
+|Client N  :2   |STATUS :CONNECTED   |IP_v4  :::ffff:127.0.0.1   |PERMISSION :GUEST
+|Client N  :3   |STATUS :CONNECTED   |IP_v4  :::ffff:127.0.0.1   |PERMISSION :GUEST
+|Client N  :4   |STATUS :CONNECTED   |IP_v4  :::ffff:127.0.0.1   |PERMISSION :GUEST
+|Client N  :5   |STATUS :CONNECTED   |IP_v4  :::ffff:127.0.0.1   |PERMISSION :GUEST
